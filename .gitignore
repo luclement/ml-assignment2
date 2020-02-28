@@ -1,0 +1,6 @@
+__pycache__
+.ipynb_checkpoints/
+*.docx
+*.pdf
+.DS_Store
+*_test/*
